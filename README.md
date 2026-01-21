@@ -15,7 +15,6 @@
 - Minimax Search, Alpha-Beta Pruning, MCTS
 ### 04. Constraint Satisfaction Problems
 - Node/Arc Consistency, Backtracking search
-- Heuristics to use during backtracking search
-    - MRV, Degree, LCV, Forward checking
+    - Heuristics: MRV, Degree, LCV, Forward checking
 - Local search
     - Hill climbing, simulated annealing
