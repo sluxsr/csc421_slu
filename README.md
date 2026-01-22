@@ -17,4 +17,4 @@
 - Node/Arc Consistency, Backtracking search
     - Heuristics: MRV, Degree, LCV, Forward checking
 - Local search
-    - Hill climbing, simulated annealing
+    - Hill climbing, simulated annealing, linear programming
