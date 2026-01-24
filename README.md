@@ -18,3 +18,5 @@
     - Heuristics: MRV, Degree, LCV, Forward checking
 - Local search
     - Hill climbing, simulated annealing, linear programming
+### 05. Knowledge and Reasoning
+- Knowledge base (KB), propositional logic, first-order logic
