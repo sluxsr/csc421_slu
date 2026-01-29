@@ -19,4 +19,4 @@
 - Local search
     - Hill climbing, simulated annealing, linear programming
 ### 05. Knowledge and Reasoning
-- Knowledge base (KB), propositional logic, first-order logic
+- Knowledge base (KB), propositional logic, theorem proving, first-order logic
