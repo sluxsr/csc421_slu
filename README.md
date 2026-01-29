@@ -21,3 +21,6 @@ Please consult [BrightSpace](https://bright.uvic.ca/d2l/home/467427) for more co
     - Hill climbing, simulated annealing, linear programming
 ### 05. Knowledge and Reasoning
 - Knowledge base (KB), propositional logic, theorem proving, first-order logic
+
+...
+Under construction
