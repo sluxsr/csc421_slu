@@ -2,8 +2,6 @@
 
 **Instructor: Shengyao Lu | @University of Victoria (UVic)**
 
-- - -
-
 Please consult [BrightSpace](https://bright.uvic.ca/d2l/home/467427) for more course information and materials (course notes, in-class demos, assignments, announcements, etc.).
 
 ## **Topics covered in this course:**
