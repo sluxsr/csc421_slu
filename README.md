@@ -20,7 +20,10 @@ Please consult [BrightSpace](https://bright.uvic.ca/d2l/home/467427) for more co
 - Local search
     - Hill climbing, simulated annealing, linear programming
 ### 05. Knowledge and Reasoning
-- Knowledge base (KB), propositional logic, theorem proving, first-order logic
+- Knowledge base (KB), propositional logic, first-order logic
+- Theorem proving
+    - Deduction theorem, proof by contradiction
+    - Inference rules, resolution, forward chaining, backward chaining
 
 ...
 Under construction
