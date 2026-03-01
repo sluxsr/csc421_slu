@@ -24,6 +24,11 @@ Please consult [BrightSpace](https://bright.uvic.ca/d2l/home/467427) for more co
 - Theorem proving
     - Deduction theorem, proof by contradiction
     - Inference rules, resolution, forward chaining, backward chaining
+### 06. Uncertainty
+- Probability, Baye's Rule, Naive Bayes model, Bayes Classification, Bayesian Networks
+- Inference in Bayesian Nets
+    - Exact: enumeration, variable elimination 
+    - Approximate: rejection sampling, likelihood weighting, MCMC
 
 ...
 Under construction
