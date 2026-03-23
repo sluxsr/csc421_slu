@@ -29,6 +29,15 @@ Please consult [BrightSpace](https://bright.uvic.ca/d2l/home/467427) for more co
 - Inference in Bayesian Nets
     - Exact: enumeration, variable elimination 
     - Approximate: rejection sampling, likelihood weighting, MCMC
+### 07. Machine Learning
+- Bayesian learning, MAP, MLE, EM algorithm
+- Classification, regression
+- Loss Functions. Gradient Descent. Overfitting. Regularization.
+- Linear regression, logistic regression, SVM, Decision tree, kNN
+### 08. Deep Learning
+- MLP, Back-propagation, CNN, RNN, Dropout, Data augmentation
+- Practical pitfalls in deep learning training
+
 
 ...
 Under construction
