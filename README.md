@@ -60,5 +60,5 @@ Note: The provisional schedule is subject to change.
 | Topic 6| 	Uncertainty and Probability (Ch. 12–13)	| Week 8-9	| HW3	| | 	✅| 
 | Topic 7	| Machine Learning (Ch. 19-20)	| Week 10-11	| HW4	| | 	✅| 
 | Topic 8| 	Deep Learning (Ch. 21)	| Week 11-12	| HW4	| | 	✅| 
-| Topic 9| 	Reinforcement Learning (Ch. 22)	| Week 12-13		| | 	✅| 
+| Topic 9| 	Reinforcement Learning (Ch. 22)	| Week 12-13		|	| | 	✅| 
 | Topic 10| 	Ethics and Safety (Ch. 27)	| Week 13		| | 	| 
