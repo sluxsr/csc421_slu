@@ -44,8 +44,6 @@ Please consult [BrightSpace](https://bright.uvic.ca/d2l/home/467427) for more co
 ### 10. Ethics and Safety of AI
 
 <br>
-- - - 
-<br>
 
 ## Provisional Course Outline
 
