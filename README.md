@@ -37,7 +37,8 @@ Please consult [BrightSpace](https://bright.uvic.ca/d2l/home/467427) for more co
 ### 08. Deep Learning
 - MLP, Back-propagation, CNN, RNN, Dropout, Data augmentation
 - Practical pitfalls in deep learning training
-
-
-...
-Under construction
+### 09. Reinforcement Learning
+- MDP, Q-function, Value function, Policy
+- Multi-Armed Bandit (MAB)
+- Q-learning
+### 10. Ethics and Safety of AI
