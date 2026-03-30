@@ -2,7 +2,9 @@
 
 **Instructor: Shengyao Lu | @University of Victoria (UVic)**
 
-Please consult [BrightSpace](https://bright.uvic.ca/d2l/home/467427) for more course information and materials (course notes, in-class demos, assignments, announcements, etc.).
+Please consult [BrightSpace](https://bright.uvic.ca/d2l/home/467427) for more course information and materials (course notes, in-class demos, in-class quizzes, assignments, announcements, etc.).
+
+For lecture notes from previous years, please see [[this repository]](https://github.com/gtzan/csc421_tzanetakis). These materials are provided only as supplementary reference. The current course uses its own lecture notes and organization, and the coverage of topics differs in several places from previous years. For the most accurate and up-to-date course content, as well as exam preparation, please refer to Brightspace.
 
 ## **Topics covered in this course:**
 ### 00. Introduction
